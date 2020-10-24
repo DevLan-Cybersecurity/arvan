@@ -31,3 +31,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+**Possible solution**
+Add any possible solution that you think could be useful to solve the problem
