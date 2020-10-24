@@ -24,6 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Info (please complete the following information):**
+ - Who: (Who made the report?)
  - Where: (example coordinate X Y Z)
  - When: (time and date)
  - Other infos: (errors messages in chat)
