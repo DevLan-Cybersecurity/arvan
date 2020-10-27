@@ -37,10 +37,13 @@ assignees: ''
  <!--  When: (time and date) -->
  <!--  Other infos: (errors messages in chat) -->
  <!-- Add any other context about the problem here -->
+ <!-- Start writing below this line -->
 
 
 ## :compass: Possible solution
 <!-- Add any possible solution that you think could be useful to solve the problem -->
+<!-- Start writing below this line -->
+
 
 ---
 
