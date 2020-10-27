@@ -7,32 +7,39 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!-- FILL IN THE FORM BELOW -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## :round_pushpin: Description (REQUIRED)
+<!-- A clear and detailed description of what went wrong. -->
+<!-- The more information you can provide, the easier we can handle this problem. -->
+<!-- Start writing below this line -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## :bookmark_tabs: Steps to reproduce the Issue (REQUIRED)
+<!-- Tell us the exact steps to reproduce this issue, the more detailed the easier we can reproduce it. -->
+<!-- Start writing below this line -->
 
-**Info (please complete the following information):**
- - Who: (Who made the report?)
- - Where: (example coordinate X Y Z)
- - When: (time and date)
- - Other infos: (errors messages in chat)
 
-**Additional context**
-Add any other context about the problem here.
+## :bulb: Expected behavior (REQUIRED)
+<!-- What were you expecting to happen? -->
+<!-- What do you think would have been the correct behaviour? -->
+<!-- Start writing below this line -->
 
-**Possible solution**
+
+## :scroll: Screenshots or Videos
+<!-- Youtube Videos and Screenshots are recommended!!! -->
+<!-- Paste your link(s) below this line -->
+
+
+## :open_file_folder: Info and Additional contex
+ <!--  Who: (Who made the report?) -->
+ <!--  Where: (example coordinate X Y Z) -->
+ <!--  When: (time and date) -->
+ <!--  Other infos: (errors messages in chat) -->
+ <!-- Add any other context about the problem here -->
+
+
+## :compass: Possible solution
 Add any possible solution that you think could be useful to solve the problem
 
 **Checklist**:
