@@ -40,7 +40,9 @@ assignees: ''
 
 
 ## :compass: Possible solution
-Add any possible solution that you think could be useful to solve the problem
+<!-- Add any possible solution that you think could be useful to solve the problem -->
+
+---
 
 **Checklist**:
 <!--- Make sure you've completed the following steps (put an "X" between of brackets): -->
