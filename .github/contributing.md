@@ -35,9 +35,9 @@ https://discord.gg/bsp8A26
 ---
 
 
-# JOIN A TEAM MOVING ENTERTAINMENT FORWARD, Find your next challenge!
-###  Are you looking to work with enthusiastic experts who are tackling game-changing challenges in entertainment and beyond? At DevLan, we offer an open environment where bright ideas are given a chance to shine and everyone is eager to lend a helping hand.
-#### Join us and create the unknown.
+# JOIN A TEAM MOVING ENTERTAINMENT FORWARD
+###  Are you looking to work with enthusiastic experts who are tackling game-changing challenges in entertainment and beyond?<br>At DevLan, we offer an open environment where bright ideas are given a chance to shine and everyone is eager to lend a helping hand.
+#### Find your next challenge! Join us and create the unknown!
 
 # Contributing to DevLan
 This document outlines various ways how you can help contribute to DevLan and make this a bigger and better project.<br>
