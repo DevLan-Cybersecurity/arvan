@@ -50,6 +50,6 @@ assignees: ''
 **Checklist**:
 <!--- Make sure you've completed the following steps (put an "X" between of brackets): -->
 - [] I included all information required in the sections above
-- [] I made sure there are no duplicates of this report [(Use Search)](https://github.com/DevLan-Support/tickets/issues)
+- [] I made sure there are no duplicates of this report [(Use Search)](https://github.com/DevLan-Support/arvan/issues)
 - [] I tried to reproduce the error more than one time and asked to someone else to try too
 - [] I made sure the bug/error is not caused by me (lag, external clients, hacks)
