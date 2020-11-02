@@ -47,13 +47,13 @@ Please also follow the templates for Issues and Pull Requests we provide.
 # Choose the role you’d like to apply for and click on it.
 
 ## :hammer_and_wrench: 1. [Game Operators](https://github.com/DevLan-Support/arvan/blob/main/pages/jobs/game-operators.md)
-- Administration, Assistance and Creation of Game Content (quests, events, etc)
+- Administration Staff that give assistance and create or manage game contents (quests, events, etc)
 
 ## :crossed_swords: 2. [Moderators](https://github.com/DevLan-Support/arvan/blob/main/pages/jobs/moderators.md)
-- Security and Control of all DevLan platforms
+- Security Staff that monitoring and control all DevLan platforms
 
 ## :memo: 3. [Game Masters](https://github.com/DevLan-Support/arvan/blob/main/pages/jobs/masters.md)
-- 
+- Organizational staff that animates, manages and promotes the community game using also RPG methods.
 
 ## ✒️ 4. [Contributing and Expanding the Wiki](https://github.com/DevLan-Support/arvan/wiki/Contributing-and-Expanding-the-Wiki)
 Another great way to contribute to DevLan is by working on translations for the project or just expanding the Wiki.
