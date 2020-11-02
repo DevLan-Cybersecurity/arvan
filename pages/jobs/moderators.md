@@ -1,4 +1,5 @@
-# ⚔️ Moderators
+# ⚔️ Moderators (Only Italians for now)
+- Security Staff that monitoring and control all DevLan platforms
 
 ### (For now we are looking for only Italian Moderators)
 
