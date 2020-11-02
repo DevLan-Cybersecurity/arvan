@@ -52,7 +52,7 @@ Please also follow the templates for Issues and Pull Requests we provide.
 ## :crossed_swords: 2. [Moderators](https://github.com/DevLan-Support/arvan/blob/main/pages/jobs/moderators.md)
 - Security and Control of all DevLan platforms
 
-## :pencil::memo: 3. [Game Masters](https://github.com/DevLan-Support/arvan/blob/main/pages/jobs/masters.md)
+## :memo: 3. [Game Masters](https://github.com/DevLan-Support/arvan/blob/main/pages/jobs/masters.md)
 - 
 
 ## ✒️ 4. [Contributing and Expanding the Wiki](https://github.com/DevLan-Support/arvan/wiki/Contributing-and-Expanding-the-Wiki)
