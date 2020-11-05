@@ -9,7 +9,7 @@ We always keep in mind that it is possible, if you have any questions, to join [
 ## QUALIFICATIONS
 A Game Master has a lot of creativity, knows how to manage impartially many users at the same time, knows very well the commands, how the game works and knows very well the qualities of the role-playing game.
 
-## ADDITIONAL INFORMATION
+
 
 #### If you want to apply as a Game Master:
 ## WHAT SHOULD YOU DO TO APPLY?
