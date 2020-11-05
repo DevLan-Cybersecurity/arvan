@@ -1,6 +1,8 @@
 # 📝 Game Masters
 - Organizational staff that animates, manages and promotes the community game using also RPG methods.
 
+## JOB DESCRIPTION
+
 Main role will be to CREATE and REGULATE THE GAME through the "narration" and therefore the creation of a setting in which the characters go to find themselves.<br>
 A Game Master is responsible for representing IN PLAY the ranks of Destiny in all its manifestations, without distinction of rank, race, deployment, Guild and Realm. Masters are able to manifest events, generate images and guide the characters in their existence, involving all the realities of the Arvan world, in the most total IMPARTIAL way.<br>
 In case of contrasts and/or discordant visions with the development of a QUEST in Game, it is good to first speak with the relative Kingdom's King of what happened and it will then be the King himself to ask for explanations or asking for clarification if there are any need.<br>
