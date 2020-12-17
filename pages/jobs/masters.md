@@ -14,10 +14,10 @@ A Game Master has a lot of creativity, knows how to manage impartially many user
 
 
 #### If you want to apply as a Game Master:
+
+
 ## WHAT SHOULD YOU DO TO APPLY?
-1. Have a copy of [Minecraft Premium](https://www.minecraft.net)
 1. Enter in the [DevLan's Discord Server](https://discord.io/devlan)
-1. Link your minecraft account: `!link myMCusername`
-1. After unlocking the general channels go to any text channel and run the command: ` %apply ` 
-1. Follow the instructions received in a private message, complete de application form, send it and wait to be contacted."
+1. After unlocking the general channels go to the channel ` Work with Us ` 
+1. Follow the instructions, complete the application form, send it and wait to speak with a Staff Manager.
 
